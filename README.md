@@ -561,4 +561,3 @@ public class HttpClientUtilsTest {
 
 }
 ```
-[完整代码下载链接](https://github.com/JourWon/httpclientutil)
